@@ -33,3 +33,9 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+# Rotas
+Routes.js
+
+#Páginas
+pages
